@@ -28,3 +28,25 @@ pip install -r requirements.txt
 
 # Run the script
 python main.py
+```
+---
+
+## 📊 Results
+- Logistic Regression Accuracy: ~95%
+- Passive Aggressive Classifier Accuracy: ~93%
+  
+---
+
+## 🌟 Key Highlights
+- End-to-end ML pipeline: data cleaning → modeling → evaluation
+- High accuracy using TF-IDF features
+- Scalable architecture for deployment
+- Reproducible code with clear documentation
+
+---
+
+## 🔮 Future Improvements
+- Integrate transformer-based models (BERT, RoBERTa)
+- Multilingual fake news detection
+- Real-time classification API
+- Web-based UI for easy interaction
